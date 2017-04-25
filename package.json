@@ -1,0 +1,11 @@
+{
+  "name": "contact-management",
+  "version": "1.0.0",
+  "description": "This is the project to manage our contacts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "lingaraja",
+  "license": "ISC"
+}
